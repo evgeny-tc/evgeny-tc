@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux :)" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="docker" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="50" height="50"/>&nbsp;
-<img src="https://shpakoff.ru/assets/pizza.png" title="eat pizza" width="50" height="50"/>&nbsp;
+<img src="https://github.com/evgeny-tc/evgeny-tc/assets/85891392/cc4fdbb7-ce51-40d9-9526-aa9d98087080" title="eat pizza" width="50" height="50"/>&nbsp;
 
 <!--
 **evgeny-tc/evgeny-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
